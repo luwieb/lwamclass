@@ -1,0 +1,2 @@
+# lwamclass
+npm package
